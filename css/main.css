@@ -1,0 +1,172 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:wght@700&display=swap');
+.hd3{font-size: 80px;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Josefin Sans', sans-serif;
+     }
+.p2{font-size: 20px;
+    padding-top: 10px;}
+    .custom-btn {
+        width: 130px;
+        height: 40px;
+        color: #fff;
+        border-radius: 5px;
+        padding: 10px 25px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 500;
+        background: transparent;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        position: relative;
+        display: inline-block;
+         box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+         7px 7px 20px 0px rgba(0,0,0,.1),
+         4px 4px 5px 0px rgba(0,0,0,.1);
+        outline: none;
+      }
+    .btn-15 {font-size: 15px;
+        background: rgb(64, 66, 68);
+        border: none;
+        z-index: 1;
+        width: 160px;
+        height: 40px;
+      }
+      .btn-15:after {
+        position: absolute;
+        content: "";
+        width: 0;
+        height: 100%;
+        top: 0;
+        right: 0;
+        z-index: -1;
+        background-color: #ec342a;
+        border-radius: 5px;
+         box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+         7px 7px 20px 0px rgba(0,0,0,.1),
+         4px 4px 5px 0px rgba(0,0,0,.1);
+        transition: all 0.3s ease;
+      }
+      .btn-15:hover {
+        color: #fff;
+      }
+      .btn-15:hover:after {
+        left: 0;
+        width: 100%;
+      }
+      .btn-15:active {
+        top: 2px;
+      }
+          
+
+.div1{padding-top: 380px;
+    padding-left: 300px}
+.div2{display: block;
+      float:right;
+    padding-right: 28%;}
+.div3{background-color: rgb(247, 245, 247);}
+.hd1{padding-top: 90px; font-family: 'Dancing Script', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+padding-bottom: 40px;}
+.hd2{padding-top: 20px; font-family: 'Dancing Script', cursive;
+    font-family: 'Josefin Sans', sans-serif;}
+.p1{padding-left: 25%;
+    color: rgb(214, 23, 23);}
+.material-symbols-outlined{padding-left: 10px;
+                           padding-right: 30px;
+                           }
+.img1{padding-left: 30px; }
+.div4{height: 690px;
+     }
+.img2{padding-right: 30px;padding-left: 30px;}
+.div5{height: 690px;}
+.div6{height: 330px;
+      padding-bottom: 15px;
+     }
+.div7{height: 330px;
+      padding-top: 30px;
+      }
+.div8{margin-top: 90px;}
+.hd4{padding-left: 45%;
+     padding-top: 10%;font-family: 'Dancing Script', cursive;
+     font-family: 'Josefin Sans', sans-serif;}
+.pg1{padding-left: 25%;padding-right: 16%;
+    }
+.img3{width: 100%;}
+.hd5{padding-top: 20px;padding-left: 10px; font-family: 'Dancing Script', cursive;
+    font-family: 'Josefin Sans', sans-serif;}
+.pg2{padding-left: 30%;}
+.div9{padding-left: 42%;
+      padding-top: 8%;}
+.bt2{background-color: rgb(244, 53, 53);
+     color: aliceblue;border: solid;
+    font-size: 20px;}
+.Demmy{background: url(../Image/new_product3.png.webp)   repeat;background-size: cover;
+        height: 800px;
+        margin-top: 80px;}
+.cntr{padding-top:20% ;}
+.hd6{display: inline-block;
+float: right;
+padding-right: 50px;
+padding-top: 120px;font-family: 'Dancing Script', cursive;
+font-family: 'Josefin Sans', sans-serif;font-size: 60px;}
+.pg3{padding-left: 130px;}
+.bt3{background-color: rgb(244, 53, 53);
+    color: aliceblue;border: solid;
+   font-size: 20px;
+    }
+.div10{padding-left: 122px;
+       padding-top: 30px;}
+.div11{background-color: rgb(244, 53, 53);
+height: 250px;}
+.hd7{color: aliceblue;padding-top: 20px;padding-left: 20px;}
+.pg4{color: aliceblue;padding-left: 20px;}
+.img4{padding-top: 70px;}
+.hd8{padding-top: 70px;}
+.pg5{padding-right: 30px;
+     padding-top: 30px;}
+.div12{text-decoration: none;
+      color: rgb(150, 149, 148);}
+.pg5{color:  rgb(150, 149, 148);}
+.clr{color: rgb(233, 35, 35);
+     text-decoration: none;}
+.pg6{color:  rgb(150, 149, 148);
+     padding-top: 60px;}
+.div13{display: inline-block;
+       float: right;
+       padding-top: 60px;}
+.b1{padding-right: 20px;
+    color: black;}
+.div14{background-color: rgb(253, 253, 253);
+   height: 180px;}
+.bi1{
+  color: white;
+  font-size: 45px;
+  padding-left: 20px;
+}
+.bt4{border-radius: 100%;
+width: 100px;
+height: 100px;
+background-color: black;
+border-color: #fff;}
+.icon{font-size: 50px;
+color: rgb(252, 252, 252);}
+.img9:hover{transform: scale(1.06);transition: all .4s ease-out 0s;}
+ 
+@media (min-width: 300px) and (max-width: 991.98px) 
+{
+  .div1{padding-top: 100px; padding-left: 10px;}
+  .img2{padding-right: 30px;}
+  .hd3{font-size: 55px;}
+  .div2{padding-right: 10%;}
+  .hd1{font-size: 70px;}
+  .div4{height: 690px;}
+  .div5{height: 690px;}
+  .div6{height: 690px;}
+  .div7{height: 690px;}
+  .hd4{font-size: 70px;
+  padding-left: 18%;
+  padding-top: 0%;}
+  .pg1{font-size: 30px;
+       padding-left: 0%;
+      padding-right: 0%;}
+}
